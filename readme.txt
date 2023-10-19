@@ -1,0 +1,2 @@
+st stress
+sl sleep
